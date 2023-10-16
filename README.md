@@ -7,3 +7,4 @@ Using Git Obsidian to upload this blog to my own repo.
 Current OS: Xubuntu
 Current Terminal: BASH
 Languages I Know: Python, HTML, C. 
+test test test
